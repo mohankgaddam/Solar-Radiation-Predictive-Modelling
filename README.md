@@ -1,7 +1,7 @@
 # Solar-Radiation-Predictive-Modelling
 
 Collaborators:
-Jai Kishore 
+Jai Kishore,  
 Kartik Bapna
 
 This was a team project for my course Statistical Data Mining 1 (Supervised Learning methods).
