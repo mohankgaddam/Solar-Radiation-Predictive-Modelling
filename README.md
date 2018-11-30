@@ -1,5 +1,9 @@
 # Solar-Radiation-Predictive-Modelling
 
+Collaborators:
+Jai Kishore 
+Kartik Bapna
+
 This was a team project for my course Statistical Data Mining 1 (Supervised Learning methods).
 
 Using Statistical Data Mining techniques, we tried to predict the level of solar radiation from the measurable meteorological information provided by NASA HI-SEAS (Hawaii’s Space Exploration Analog and Simulation mission) sensors.
