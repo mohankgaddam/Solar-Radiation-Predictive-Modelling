@@ -1,7 +1,6 @@
 # Solar-Radiation-Predictive-Modelling
 
 Collaborators:
-
 Jai Kishore
 Kartik Bapna
 
